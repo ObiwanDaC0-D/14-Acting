@@ -8,6 +8,7 @@ A standalone, responsive, single-file educational application for GitHub Pages. 
 - **Theory Library:** 30 frameworks spanning acting systems, script analysis, movement and voice, improvisation, social performance, psychology, ritual, and ethics. Search, filter, bookmark, and mark studied.
 - **Concept Map:** interactive SVG map with discipline filter, zoom and keyboard-selectable nodes.
 - **Character Development Lab (V2):** six-stage integrated workflow with 21 fields, multiple saved character profiles, profile duplication, import/export, completion tracking, theoretical cross-links and generated rehearsal briefs.
+- **Character–Scene integration (V4):** link saved Character Studio profiles to either scene character; fill empty fields or deliberately replace values; preserve character snapshots for social persona, subtext and embodied choices.
 - **Interactive Scene Rehearsal (V3):** create and manage two-character scenes, test alternative tactics, compare baseline and variation, explore eight interpretive lenses, and generate rehearsal briefs. Browser-local saving and JSON import/export.
 - **Exercise Studio:** 10 structured practice drills with reflections and completion tracking.
 - **Compare:** side-by-side framework analysis.
@@ -34,4 +35,4 @@ The app is implemented in `index.html`. It links back to the [Central Hub](https
 
 ## Status
 
-V3 created and committed. Browser deployment and interactive QA have not yet been independently verified.
+V4 created and committed. Browser deployment and interactive QA have not yet been independently verified.
